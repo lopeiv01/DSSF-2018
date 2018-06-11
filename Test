@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <title>Test Page </title>
+  </head>
+  <body>
+    <h1>Hello World!</h1>
+    <p>It is raining outside</p>
+    <br><br>
+    <img src="Rainy Day.jpg">
+    <br><br>
+    <p>What do you need for a successful rain day?</p>
+    <ul>
+    <li>Rain boots</li>
+    <li><a href="https://www.aliexpress.com/item/Children-Cartoon-Umbrella-Frog-Bears-Mickey-Bees-Half-Automatic-Student-Umbrella-Long-Handle-Sun-Rain-Kids/32830115297.html">Umbrella</a></li>
+    <li>Long pants</li>
+    </ul>
+    <p>It is okay if you forget these items - you'll just get wet!</p>
+  </body>
+</html>   
